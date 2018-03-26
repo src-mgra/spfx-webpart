@@ -1,4 +1,4 @@
-SPF WebPart example
+SPFx WebPart example
 
 Install dev-environment:
 
